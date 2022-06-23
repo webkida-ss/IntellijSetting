@@ -94,5 +94,12 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
+    <debuggers>
+      <debugger id="groovy_debugger">
+        <configuration>
+          <option name="ENABLE_GROOVY_HOTSWAP" value="false" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
